@@ -1,8 +1,8 @@
-## Aplicacion que lee archivos xlsx y crea un Data Frame html, tambien contiene un tema de material design integrado
+# Aplicacion que lee archivos xlsx y crea un Data Frame html, tambien contiene un tema de material design integrado
 
-## Step to install
+# Step to install
 
-# 1  crear un entorno virtual para python:
+# 1  crear un entorno virtual para python (se requiere tener virtualenv instalado):
 
     # on linux
     1.1 virtualenv nombre_entorno
