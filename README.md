@@ -7,7 +7,7 @@
     1.1 en linux  
     virtualenv nombre_entorno
         
-    1.2 en windows    
+    1.2 en windows (usa la ubicacion y version que tengas instalada en tu windows)   
     virtualenv -p C:\Python27\python.exe nombre_entorno
 
 #### iniciar el entorno virtual de python
